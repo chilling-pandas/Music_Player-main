@@ -29,5 +29,3 @@ A responsive and interactive web-based music player built with **HTML**, **CSS**
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/Debarghya-Das/Music_Player.git
